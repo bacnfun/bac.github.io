@@ -1,0 +1,278 @@
+
+# lib/data_table/config.dart 파일에 설정 값이 더 있습니다
+
+mapleBalls:
+  - name: 琳恩
+    imageFileName: "ball_race_char_50.png"
+    color: 0xFF379CB5
+  - name: 墨玄
+    imageFileName: "ball_race_char_49.png"
+    color: 0xFFB170EB 
+  - name: 陰陽師
+    imageFileName: "ball_race_char_48.png"
+    color: 0xFF715EB9
+  - name: 劍豪
+    imageFileName: "ball_race_char_47.png"
+    color: 0xFF9D1941
+  - name: 夜使者
+    imageFileName: "ball_race_char_30.png"
+    color: 0xFFBF9000
+  - name: 暗夜行者
+    imageFileName: "ball_race_char_33.png"
+    color: 0xFFFC6F50
+  - name: 黑騎士
+    imageFileName: "ball_race_char_3.png"
+    color: 0xFFC55A11
+  - name: 惡魔殺手
+    imageFileName: "ball_race_char_7.png"
+    color: 0xFF8FAADC
+  - name: 惡魔復仇者
+    imageFileName: "ball_race_char_8.png"
+    color: 0xFFBF1818
+  - name: 影武者
+    imageFileName: "ball_race_char_32.png"
+    color: 0xFFEE9BEE
+  - name: 菈菈
+    imageFileName: "ball_race_char_21.png"
+    color: 0xFFFFEF3D
+  - name: 夜光
+    imageFileName: "ball_race_char_19.png"
+    color: 0xFFFF9966
+  - name: 精靈遊俠
+    imageFileName: "ball_race_char_28.png"
+    color: 0xFF9999FF
+  - name: 機甲戰神
+    imageFileName: "ball_race_char_43.png"
+    color: 0xFF00CC99
+  - name: 米哈逸
+    imageFileName: "ball_race_char_5.png"
+    color: 0xFFFF7C80
+  - name: 拳霸
+    imageFileName: "ball_race_char_39.png"
+    color: 0xFFBF9000
+  - name: 煉獄巫師
+    imageFileName: "ball_race_char_17.png"
+    color: 0xFF0892F5
+  - name: 箭神
+    imageFileName: "ball_race_char_23.png"
+    color: 0xFFC55A11
+  - name: 爆拳槍神
+    imageFileName: "ball_race_char_6.png"
+    color: 0xFF8FAADC
+  - name: 主教
+    imageFileName: "ball_race_char_15.png"
+    color: 0xFFBF1818
+  - name: 暗影神偷
+    imageFileName: "ball_race_char_31.png"
+    color: 0xFFEE9BEE
+  - name: 聖魂劍士
+    imageFileName: "ball_race_char_4.png"
+    color: 0xFF76DCB0
+  - name: 閃雷悍將
+    imageFileName: "ball_race_char_42.png"
+    color: 0xFFFF9966
+  - name: 神射手
+    imageFileName: "ball_race_char_24.png"
+    color: 0xFF9999FF
+  - name: 阿戴爾
+    imageFileName: "ball_race_char_11.png"
+    color: 0xFF00CC99
+  - name: 狂狼勇士
+    imageFileName: "ball_race_char_9.png"
+    color: 0xFFFF7C80
+  - name: 亞克
+    imageFileName: "ball_race_char_46.png"
+    color: 0xFFBF9000
+  - name: 大魔導士（火毒）
+    imageFileName: "ball_race_char_13.png"
+    color: 0xFFFF7f50
+  - name: 大魔導士（冰雷）
+    imageFileName: "ball_race_char_14.png"
+    color: 0xFFC55A11
+  - name: 龍魔導士
+    imageFileName: "ball_race_char_18.png"
+    color: 0xFF8FAADC
+  - name: 天使破壞者
+    imageFileName: "ball_race_char_45.png"
+    color: 0xFFBF1818
+  - name: 狂豹獵人
+    imageFileName: "ball_race_char_27.png"
+    color: 0xFFEE9BEE
+  - name: 破風使者
+    imageFileName: "ball_race_char_26.png"
+    color: 0xFFEE9BEE
+  - name: 隱月
+    imageFileName: "ball_race_char_44.png"
+    color: 0xFF74E0EE
+  - name: 伊利恩
+    imageFileName: "ball_race_char_20.png"
+    color: 0xFFFF9966
+  - name: 傑諾
+    imageFileName: "ball_race_char_34.png"
+    color: 0xFF9999FF
+  - name: 神之子
+    imageFileName: "ball_race_char_12.png"
+    color: 0xFF00CC99
+  - name: 卡蒂娜
+    imageFileName: "ball_race_char_36.png"
+    color: 0xFFFF7C80
+  - name: 凱撒
+    imageFileName: "ball_race_char_10.png"
+    color: 0xFFEE9BEE
+  - name: 凱殷
+    imageFileName: "ball_race_char_29.png"
+    color: 0xFFCCA633
+  - name: 卡莉
+    imageFileName: "ball_race_char_37.png"
+    color: 0xFFFF9966
+  - name: 重砲指揮官
+    imageFileName: "ball_race_char_41.png"
+    color: 0xFF9999FF
+  - name: 槍神
+    imageFileName: "ball_race_char_40.png"
+    color: 0xFF00CC99
+  - name: 凱內西斯
+    imageFileName: "ball_race_char_22.png"
+    color: 0xFFFF7C80
+  - name: 聖騎士
+    imageFileName: "ball_race_char_2.png"
+    color: 0xFFEE9BEE
+  - name: 開拓者
+    imageFileName: "ball_race_char_25.png"
+    color: 0xFFCC3D3D
+  - name: 幻影俠盜
+    imageFileName: "ball_race_char_35.png"
+    color: 0xFFFF9966
+  - name: 烈焰巫師
+    imageFileName: "ball_race_char_16.png"
+    color: 0xFF9999FF
+  - name: 虎影
+    imageFileName: "ball_race_char_38.png"
+    color: 0xFF00CC99
+  - name: 英雄
+    imageFileName: "ball_race_char_1.png"
+    color: 0xFFFF7C80
+
+normalBalls:
+  - color: 0xFFCC3333
+  - color: 0xFFCC5933
+  - color: 0xFFCC8033
+  - color: 0xFFCCA633
+  - color: 0xFFCCCC33
+  - color: 0xFFA6CC33
+  - color: 0xFF80CC33
+  - color: 0xFF33CC80
+  - color: 0xFF33CCA6
+  - color: 0xFF33CCCC
+  - color: 0xFF33A6CC
+  - color: 0xFF3380CC
+  - color: 0xFFCC33A6
+  - color: 0xFFCC3380
+  - color: 0xFF936C86
+  - color: 0xFFF28080
+  - color: 0xFFD4DE6E
+  - color: 0xFF76DCB0
+  - color: 0xFFEFF8E1
+  - color: 0xFFBD3728
+  - color: 0xFF008000
+  - color: 0xFF008080
+  - color: 0xFFFFFF00
+  - color: 0xFFFFA500
+  - color: 0xFFD2691E
+  - color: 0xFFFF7F50
+  - color: 0xFF6495ED
+  - color: 0xFFCD5D85
+  - color: 0xFFDDA3AB
+  - color: 0xFFADB5B7
+  - color: 0xFFB8860B
+  - color: 0xFF006400
+  - color: 0xFFBDB76B
+  - color: 0xFFFF1493
+  - color: 0xFFFA8072
+  - color: 0xFFDEB887
+  - color: 0xFF98FB98
+  - color: 0xFFBC8F8F
+  - color: 0xFFDB7093
+  - color: 0xFF228B22
+  - color: 0xFF00CED1
+  - color: 0xFF4682B4
+  - color: 0xFFCD853F
+  - color: 0xFFA52A2A
+  - color: 0xFFDCDCDC
+  - color: 0xFFF25764
+  - color: 0xFF739CBF
+  - color: 0xFF77CFF2
+  - color: 0xFFF2D1B3
+  - color: 0xFFA63F3F
+  - color: 0xFFBFBC8A
+  - color: 0xFFA88219
+  - color: 0xFFCC3D3D
+  - color: 0xFFF06161
+  - color: 0xFFBA602B
+  - color: 0xFF6A84B7
+  - color: 0xFF109D92
+  - color: 0xFFB0C4DE
+  - color: 0xFFFF69B4
+  - color: 0xFFFFC0CB
+  - color: 0xFFFFB6C1
+  - color: 0xFFFF9058
+  - color: 0xFFF56E48
+  - color: 0xFFFF982E
+  - color: 0xFFABB6BC
+  - color: 0xFFCC3F3F
+  - color: 0xFFA74444
+  - color: 0xFFFC6F50
+  - color: 0xFFFF542E
+  - color: 0xFFF9D1C8
+  - color: 0xFFD7B2A9
+  - color: 0xFFD4C99F
+  - color: 0xFFF2D467
+  - color: 0xFFFFC800
+  - color: 0xFFFFEF3D
+  - color: 0xFF867C12
+  - color: 0xFFCEE901
+  - color: 0xFF6DCB10
+  - color: 0xFF3C7205
+  - color: 0xFF4512DD
+  - color: 0xFFD6C9FF
+  - color: 0xFFEA08DB
+  - color: 0xFFEB7DE4
+  - color: 0xFF0892F5
+  - color: 0xFF8ED0FF
+  - color: 0xFF85A3B9
+  - color: 0xFF0DA6BA
+  - color: 0xFF74E0EE
+  - color: 0xFFCD5C5C
+  - color: 0xFFF08080
+  - color: 0xFFFFE4E1
+  - color: 0xFFFF6347
+  - color: 0xFFFF4500
+  - color: 0xFFF0E68C
+  - color: 0xFFFFFACD
+  - color: 0xFF9ACD32
+  - color: 0xFF90EE90
+  - color: 0xFF66CDAA
+  - color: 0xFFB0E0E6
+  - color: 0xFF00BFFF
+
+help:
+  - title: 拉契爾恩競速
+    contents:
+      - "讓彈珠向下掉落，最先到達目標地點的彈珠獲勝。"
+      - "可以用來選擇要玩的《楓之谷》職業，或者決定晚餐菜單。"
+  - title: 遊戲模式
+    contents:
+      - "惡夢時間塔：這個模式中，在彈珠到達目標地點前，會有向上彈飛的障礙物干擾。"
+      - "競速賽：遊戲節奏快速，途中會有改變彈珠速度的道具出現。"
+  - title: 彈珠類型
+    contents:
+      - "《楓之谷》彈珠：使用印有《楓之谷》角色圖案的彈珠進行遊戲。"
+      - "一般彈珠：使用各種顏色的彈珠進行遊戲。"
+  - title: 新增彈珠
+    contents:
+      - "輸入想要的名稱與數量後，按下『新增』按鈕，即可生成相應數量的彈珠。"
+  - title: 預測第一名彈珠
+    titleIcon: ic_predict_ball_race.png
+    contents:
+      - "可以預測哪顆彈珠會獲得第一名。"
+      - "按下按鈕並選擇想要的彈珠後，遊戲進行時畫面將會跟隨該彈珠移動。"
